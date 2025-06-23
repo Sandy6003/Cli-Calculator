@@ -13,6 +13,6 @@ now using try for exception handling .
 then using if statements :
                           (i). choice is not in range we print invalid input and we give continue for continuing the statement .
                           (ii). choice is last one (in menu it is exit option) then giving an thank u message and give break for breaking the statement .
-now we give two inputs which the code takes them dynamically .
+now we give two inputs which we take dynamically .
 using ifelif statement we write choices and write operation for each one .
 finally we call the main function .
